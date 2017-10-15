@@ -8,8 +8,4 @@ class birb
   def bamboozle
     "#{name} has been bamboozled!"
   end
-
-  def seed
-      "#{name} wants more seeds!"
-  end
 end
